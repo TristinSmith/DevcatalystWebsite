@@ -53,6 +53,8 @@
   align-content: center;
   text-align: center;
  }
+ a{text-decoration: none;
+}
   /*below is navbar and media query, above is everything else*/
   .nav {
     height: 50px;
