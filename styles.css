@@ -99,7 +99,7 @@
     display: none;
   }
     /*make sure media query at bottom*/
-  @media (max-width:600px) { 
+  @media (max-width:800px) { 
     .nav > .nav-btn {
       display: inline-block;
       position: absolute;
@@ -131,6 +131,7 @@
       overflow-y: hidden;
       top: 50px;
       left: 0px;
+      font-size: 5vw;
     }
     .nav > .nav-links > a {
       display: block;
